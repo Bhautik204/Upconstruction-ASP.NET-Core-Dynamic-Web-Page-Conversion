@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A6A7E8-9F09-416D-90BA-72DFDA7AD8E6}|Upconstruction\\Upconstruction.csproj|c:\\users\\bhautik\\desktop\\b.tech\\5th\\programs\\.net\\mvc\\upconstruction\\upconstruction\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8A6A7E8-9F09-416D-90BA-72DFDA7AD8E6}|Upconstruction\\Upconstruction.csproj|solutionrelative:upconstruction\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A6A7E8-9F09-416D-90BA-72DFDA7AD8E6}|Upconstruction\\Upconstruction.csproj|c:\\users\\bhautik\\desktop\\b.tech\\5th\\programs\\.net\\mvc\\upconstruction\\upconstruction\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8A6A7E8-9F09-416D-90BA-72DFDA7AD8E6}|Upconstruction\\Upconstruction.csproj|solutionrelative:upconstruction\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A6A7E8-9F09-416D-90BA-72DFDA7AD8E6}|Upconstruction\\Upconstruction.csproj|c:\\users\\bhautik\\desktop\\b.tech\\5th\\programs\\.net\\mvc\\upconstruction\\upconstruction\\views\\home\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8A6A7E8-9F09-416D-90BA-72DFDA7AD8E6}|Upconstruction\\Upconstruction.csproj|solutionrelative:upconstruction\\views\\home\\project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A6A7E8-9F09-416D-90BA-72DFDA7AD8E6}|Upconstruction\\Upconstruction.csproj|c:\\users\\bhautik\\desktop\\b.tech\\5th\\programs\\.net\\mvc\\upconstruction\\upconstruction\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8A6A7E8-9F09-416D-90BA-72DFDA7AD8E6}|Upconstruction\\Upconstruction.csproj|solutionrelative:upconstruction\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A6A7E8-9F09-416D-90BA-72DFDA7AD8E6}|Upconstruction\\Upconstruction.csproj|c:\\users\\bhautik\\desktop\\b.tech\\5th\\programs\\.net\\mvc\\upconstruction\\upconstruction\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8A6A7E8-9F09-416D-90BA-72DFDA7AD8E6}|Upconstruction\\Upconstruction.csproj|solutionrelative:upconstruction\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A6A7E8-9F09-416D-90BA-72DFDA7AD8E6}|Upconstruction\\Upconstruction.csproj|c:\\users\\bhautik\\desktop\\b.tech\\5th\\programs\\.net\\mvc\\upconstruction\\upconstruction\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8A6A7E8-9F09-416D-90BA-72DFDA7AD8E6}|Upconstruction\\Upconstruction.csproj|solutionrelative:upconstruction\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A6A7E8-9F09-416D-90BA-72DFDA7AD8E6}|Upconstruction\\Upconstruction.csproj|c:\\users\\bhautik\\desktop\\b.tech\\5th\\programs\\.net\\mvc\\upconstruction\\upconstruction\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8A6A7E8-9F09-416D-90BA-72DFDA7AD8E6}|Upconstruction\\Upconstruction.csproj|solutionrelative:upconstruction\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A6A7E8-9F09-416D-90BA-72DFDA7AD8E6}|Upconstruction\\Upconstruction.csproj|c:\\users\\bhautik\\desktop\\b.tech\\5th\\programs\\.net\\mvc\\upconstruction\\upconstruction\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A6A7E8-9F09-416D-90BA-72DFDA7AD8E6}|Upconstruction\\Upconstruction.csproj|solutionrelative:upconstruction\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\Upconstruction\\Views\\Home\\Services.cshtml",
+              "RelativeDocumentMoniker": "Upconstruction\\Views\\Home\\Services.cshtml",
+              "ToolTip": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\Upconstruction\\Views\\Home\\Services.cshtml",
+              "RelativeToolTip": "Upconstruction\\Views\\Home\\Services.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T14:58:42.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\Upconstruction\\Views\\Home\\Project.cshtml",
+              "RelativeDocumentMoniker": "Upconstruction\\Views\\Home\\Project.cshtml",
+              "ToolTip": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\Upconstruction\\Views\\Home\\Project.cshtml",
+              "RelativeToolTip": "Upconstruction\\Views\\Home\\Project.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T15:03:22.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\Upconstruction\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Upconstruction\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\Upconstruction\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Upconstruction\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T15:03:16.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\Upconstruction\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Upconstruction\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\Upconstruction\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Upconstruction\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T15:03:09.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\Upconstruction\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "Upconstruction\\Views\\Home\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\Upconstruction\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "Upconstruction\\Views\\Home\\Blog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T15:03:03.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\Upconstruction\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Upconstruction\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\Upconstruction\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Upconstruction\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T15:02:56.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\Upconstruction\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Upconstruction\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\Upconstruction\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Upconstruction\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:13:37.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\Upconstruction\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Upconstruction\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Bhautik\\Desktop\\B.tech\\5th\\programs\\.net\\MVC\\Upconstruction\\Upconstruction\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Upconstruction\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAALcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T13:09:04.559Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
