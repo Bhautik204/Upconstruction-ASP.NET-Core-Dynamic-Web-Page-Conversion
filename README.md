@@ -21,20 +21,14 @@ This project represents a conversion of an existing HTML/CSS dynamic web page in
    ```bash
    git clone https://github.com/Bhautik204/Upconstruction-ASP.NET-Core-Dynamic-Web-Page-Conversion
   
-2. Navigate to the project directory:
-   ```bash
-   cd your-repository-name
-   ```
-3. Build and run the application:
-   ```bash
-   dotnet run
-   ```
-4. Open a browser and navigate to `https://localhost:5001` (or the specified URL) to view the web page.
+2. Open the project in Visual Studio**:
+   - Launch Visual Studio.
+   - Select **Open a project or solution**.
+   - Navigate to the cloned repository and select the `.csproj` file.
+
+3. Build and Run**:
+   - Press `F5` to build and run the project.
+   - The web application will launch in your default web browser, displaying the converted webpage.
 
 ## Contributions
 Contributions to enhance this project are welcome. Feel free to fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-```
-You can replace `"yourusername/your-repository-name"` with your actual GitHub username and repository name. This `README.md` should give visitors a clear understanding of the purpose and structure of your project.
